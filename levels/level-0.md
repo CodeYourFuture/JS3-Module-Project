@@ -1,6 +1,9 @@
 # Level 0
 
-The goals of level 0 are to create a GitHub repository with the starter scaffolding in-place, deploy it to Netlify, and make sure whenever you push changes your Netlify site will be updated.
+The goals of level 0 are to:
+* Create a GitHub repository with the starter scaffolding in-place.
+* Deploy it to Netlify.
+* Make sure whenever you push changes your Netlify site will be updated.
 
 > [!WARNING]  
 > Unlike other projects at CYF, you are not going to _fork_ this project, you're going to create a repository from a template repository.
@@ -17,7 +20,7 @@ The goals of level 0 are to create a GitHub repository with the starter scaffold
 
 1. Follow [the instructions to deploy your site to Netlify](https://curriculum.codeyourfuture.io/guides/deployment-netlify/).
 2. Configure your site for auto-deployments.
-3. Ensure your netlify site is named exactly `cyf-USERNAME-tv.netlify.app` where `USERNAME` is your GitHub username. 
+3. Ensure your Netlify site is named exactly `cyf-USERNAME-tv.netlify.app` where `USERNAME` is your GitHub username.
 
 ## Get set up on your laptop
 
@@ -38,5 +41,5 @@ The goals of level 0 are to create a GitHub repository with the starter scaffold
 You have completed level 0 when:
 - [ ] You have a GitHub repository called `JS3-Module-Project` which is not a fork of this repo.
 - [ ] The `index.html` page on your GitHub project contains your name and GitHub username.
-- [ ] Your project is deployed to netlify at `cyf-USERNAME-tv.netlify.app`.
+- [ ] Your project is deployed to Netlify at `cyf-USERNAME-tv.netlify.app`.
 - [ ] Your deployed project has your name and GitHub username in its title.

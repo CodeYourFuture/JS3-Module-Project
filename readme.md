@@ -39,7 +39,7 @@ The data we're going to use comes from a website called TVmaze. For the first fe
 
 ### Your website must be accessible and use semantic HTML
 
-TODO: How exactly should we set requirements here?
+As always, your application must score 100 for Accessibility on Lighthouse.
 
 ### Don't change `getAllEpisodes()`
 
@@ -49,11 +49,13 @@ Because we're just using this `getAllEpisodes()` function as a placeholder until
 
 You should use the DOM-manipulation functions you've been learning about on the course - the point of this project is to practice.
 
-You should not use React, Vue, JQuery, or any other libraries or frameworks for this project.
+You should not use React, Vue, JQuery, or any other libraries or frameworks for this project. You can rebuild it in React later if you want!
 
 ### Functionality before style
 
 Your goal of this project is to achieve the levels, all of which are about functionality. When you have completed level 500, you can spend some time making it look beautiful. But focus on the functionality first.
+
+Remember: it's important that software works and that people can use it.
 
 ## Get started
 
@@ -63,4 +65,4 @@ After that, you're going to swap codebases with someone else. You should complet
 
 You are allowed to change anything in your partner's code to make it easier to understand or build on, but they must understand and accept your changes.
 
-Remember, finish each level before you move on to the next. Reach out for help if you're stuck.
+Remember, finish each level before you move on to the next. Reach out for help when you're stuck.

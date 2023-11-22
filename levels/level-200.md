@@ -2,9 +2,9 @@
 
 For level 200, you are not allowed to work on the same codebase as you worked on for level 100.
 
-Find someone in your class, and arrange to swap repos with them.
+Swap repos with a random person in your class. You do not need to coordinate your schedules.
 
-For their GitHub repository to your GitHub username. You will need to give it a different name (e.g. `JS3-Module-Project-Partner`), because you already have a repo named `JS3-Module-Project`.
+Fork their GitHub repository to your GitHub username. You will need to give it a different name (e.g. `JS3-Module-Project-Partner`), because you already have a repo named `JS3-Module-Project`.
 
 Clone their repository to your laptop.
 
@@ -18,15 +18,15 @@ Compare their implementation to yours. Think:
 
 They should do the same with your repository.
 
-Have a discussion about your answers to these questions. In class, together you should give a 3 minute talk about your conclusions.
+Have a discussion about your answers to these questions. In class, together you should give talk for 5 minutes about your conclusions. (Do this in small groups - we don't want to take all day).
 
 ## Refactoring
 
-Before implementing new features, take some time to change the codebase you're going to build level 200 in. Change anything you think will make it easier to add more features.
+**Before implementing new features**, take some time to change the codebase you're going to build level 200 in. Change anything you think will make it easier to add more features.
 
 Some example ideas that you may want to think about:
 1. Could any variables or functions have more clear names, to help you understand what they do?
-2. Would extracting functions help make some code easier to understand?
+2. Would [extracting functions](https://code.visualstudio.com/docs/editor/refactoring) help make some code easier to understand?
 
 Make a pull request to your partner's repo with any changes you want to make. Have them review, and when happy, merge your PR.
 

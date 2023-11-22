@@ -28,17 +28,17 @@ Until now, your site has only showed information about the episode of one TV sho
 
 But TVmaze has information about lots of TV shows, all in the same format.
 
-We want to allow displaying any of them.
+We want to display any of them.
 
 ### Requirements
 
-1. Add a `select` element to your page which allows the user to choose which show they want to see the episodes of.
-2. When the user first loads the page, you should make a `fetch` request to https://api.tvmaze.com/shows ([documentation](https://www.tvmaze.com/api#show-index)) to get a list of available shows, and add an entry to the drop-down per show.
-3. When a user selects a show, your app should display the episodes for that show as per the earlier levels of this project.
+1. Add a `select` element to your page so the user can choose a show.
+2. When the user first loads the page, make a `fetch` request to https://api.tvmaze.com/shows ([documentation](https://www.tvmaze.com/api#show-index)) to get a list of available shows, and add an entry to the drop-down per show.
+3. When a user selects a show, display the episodes for that show, just like the earlier levels of this project.
 
-  Note that you will need to perform a `fetch` to get the episode list.
-4. Ensure that your search and episode selector controls still work correctly when you switch shows.
-5. This show select must list shows in alphabetical order, case-insensitive.
+  You will need to perform a `fetch` to get the episode list.
+4. Make sure that your search and episode selector controls still work correctly when you change shows.
+5. Your select must list shows in alphabetical order, case-insensitive.
 6. During one user's visit to your website, you should never fetch any URL more than once.
 
 > [!NOTE]  
