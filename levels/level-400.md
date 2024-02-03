@@ -52,4 +52,4 @@ Here is one example layout.
 
 ![Screenshot of a website with a drop-down list with the show "Breaking Bad" selected](example-screenshots/example-level-400-1.jpg)
 
-![Screenshot of a website with a drop-down list showing multiple TV shows](example-screenshots/example-level-400-1.jpg)
+![Screenshot of a website with a drop-down list showing multiple TV shows](example-screenshots/example-level-400-2.jpg)
