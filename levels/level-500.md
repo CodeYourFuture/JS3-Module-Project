@@ -18,7 +18,7 @@ Feel free to change anything in your codebase which you think will make it easie
 
 Have your partner review any changes you have, and make sure they understand them.
 
-## Adding new functinoality
+## Adding new functionality
 
 Level 500 is about adding a front-page which lets users select (and find) shows from your shows list.
 
